@@ -14,12 +14,12 @@ Refering to the following two images of the summary statistics tables.  Key take
 
 ![June Temperature Statistics](June_Temp_Statistics.png)
 
-![December Temperature Statistics](Decemeber_Temp_Statistics.png)
+![December Temperature Statistics](December_Temp_Statistics.png)
 
 ### Summary
 Overall the weather is very similar in June and Decemeber.  June is generally slightly warmer but due to the islands location in the tropics and the surrounding Pacific Ocean.  As an additional query, the precipitation summary statistics were run for the months of June and December.  The figures below are the summary statistics of June and December respectively:
 ![June Precipitation Statistics](June_Precipitation_Statistics.png)
 
-![December Preciipation Statistics](Decemeber_Precipitation_Statistics.png) 
+![December Precipitation Statistics](December_Precipitation_Statistics.png) 
 
 As seen in the figures above the rainfall averages 0.2 inches during the month of December.  This is nearly double the average of 0.136 inches in the month.  Additionally the maximum value is two inches more in December than in June.  Overall however, the rainfall seems manageable and combined with the low variance in the temperatures doesn't seem likely to deter surfers.
