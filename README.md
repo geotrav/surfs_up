@@ -18,6 +18,7 @@ Refering to the following two images of the summary statistics tables.  Key take
 
 ### Summary
 Overall the weather is very similar in June and Decemeber.  June is generally slightly warmer but due to the islands location in the tropics and the surrounding Pacific Ocean.  As an additional query, the precipitation summary statistics were run for the months of June and December.  The figures below are the summary statistics of June and December respectively:
+
 ![June Precipitation Statistics](June_Precipitation_Statistics.png)
 
 ![December Precipitation Statistics](December_Precipitation_Statistics.png) 
